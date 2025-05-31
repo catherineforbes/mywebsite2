@@ -1,23 +1,37 @@
 [
   {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
-    "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2"
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "CV",
+    "section": "",
+    "text": "Jurcisinova, V., Zelinsky, T., Forbes C.S. and Ng, J.W.J. (2025) The Mediating Role of Financial Well-Being in the Relationship Between Housing Affordability and Mental Health. Scientific Reports,  (Group 2).\nJohnson, K., Powell, L. McGuigan, N., De Jonge, A. Brown, K., Forbes, C., Plahe, J. and Tello, E. (2025) Startrack Holdings: a case of inclusive leadership and decision-making. Chapter in Cases and Exercises on Sustainability Accounting, Edward Elgar, In press.  (Group 2)."
   },
   {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
-    "title": "Projects",
-    "section": "Project 3",
-    "text": "Project 3"
+    "objectID": "projects.html#publications",
+    "href": "projects.html#publications",
+    "title": "CV",
+    "section": "",
+    "text": "Jurcisinova, V., Zelinsky, T., Forbes C.S. and Ng, J.W.J. (2025) The Mediating Role of Financial Well-Being in the Relationship Between Housing Affordability and Mental Health. Scientific Reports,  (Group 2).\nJohnson, K., Powell, L. McGuigan, N., De Jonge, A. Brown, K., Forbes, C., Plahe, J. and Tello, E. (2025) Startrack Holdings: a case of inclusive leadership and decision-making. Chapter in Cases and Exercises on Sustainability Accounting, Edward Elgar, In press.  (Group 2)."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "Thanks for checking out my web site!"
+    "text": "I am a Professor of Econometrics at Monash University in Melbourne, Australia. In addition to researching and teaching topics in Bayesian inference and data analysis, I am also currently Deputy Head of and Director of Education for the Department of Econometrics and Business Statistics.\n\n\n\nI hold a PhD in Mathematical Statistics from The Ohio State University."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a Professor of Econometrics at Monash University in Melbourne, Australia. In addition to researching and teaching topics in Bayesian inference and data analysis, I am also currently Deputy Head of and Director of Education for the Department of Econometrics and Business Statistics."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About Me",
+    "section": "",
+    "text": "I hold a PhD in Mathematical Statistics from The Ohio State University."
   }
 ]
