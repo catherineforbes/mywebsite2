@@ -4,20 +4,18 @@ title: "CV"
 
 ## Publications
  
-### Peer-Reviewed Articles
+### Peer-Reviewed 
 
-1. Jurcisinova, V., Zelinsky, T., Forbes C.S. and Ng, J.W.J. (2025) The Mediating Role of Financial Well-Being in the Relationship Between Housing Affordability and Mental Health. *Scientific Reports*, ![link](https://www.nature.com/articles/s41598-025-00997-1) (Group 2).
+1. Jur&#269;i&#353;inov&#225;, V., &#381;elinsk&#253;, T., Forbes C.S. and Ng, J.W.J. (2025) The Mediating Role of Financial Well-Being in the Relationship Between Housing Affordability and Mental Health. *Scientific Reports*.
 		
-2. Johnson, K., Powell, L. McGuigan, N., De Jonge, A. Brown, K., Forbes, C., Plahe, J. and Tello, E. (2025) Startrack Holdings: a case of inclusive leadership and decision-making. Chapter in *Cases and Exercises on Sustainability Accounting*, Edward Elgar, In press. ![link](https://www.e-elgar.com/shop/gbp/cases-and-exercises-on-sustainability-accounting-9781035330591.html) (Group 2).
+2. Johnson, K.T., Powell, L. McGuigan, N., De Jonge, A. Brown, K., Forbes, C.S., Plahe, J. and Tello, E. (2025) Startrack Holdings: a case of inclusive leadership and decision-making.In *Cases and Exercises on Sustainability Accounting*, pp. 181–192, Edward Elgar Publishing.
 
-
-<!-- 
- 	\item Cooper A., Simpson, D., Kennedy, L., Forbes, C. and Vehtari, A. 
-	Cross-validatory model selection for Bayesian autoregressions with exogenous regressors (2024) \textit{Bayesian} \newline \textit{Analysis}, In press. 25 pages.  \url{https://doi.org/10.1214/23-BA1409}. (ABDC Rank A, Group 2.)
+3. Cooper A., Simpson, D., Kennedy, L., Forbes, C. and Vehtari, A. (2025) Cross-validatory model selection for Bayesian autoregressions with exogenous regressors, *Bayesian Analysis*, 20(2). (ABDC Rank A, Group 2.)
 		
-	\item  Cooper A., Vehtari, A., Forbes, C., Simpson, D. and Kennedy, L. (2024)  Bayesian cross-validation by parallel Markov chain Monte Carlo, \textit{Statistics and Computing}, 34(119). \url{https://doi.org/10.1007/s11222-024-10404-w}. (ABDC Rank A, Group 2.)
+4. Cooper A., Vehtari, A., Forbes, C., Simpson, D. and Kennedy, L. (2024) Bayesian cross-validation by parallel Markov chain Monte Carlo, *Statistics and Computing*, 34(119). (ABDC Rank A, Group 2.)
 
-	\item Ng, J. W. J., \u{Z}elinsk\'{y}, T., Forbes, C. S. and Looi, C. H. (2024), Beyond the 30 per cent Threshold: Introducing a Subjective Indicator for Measuring Housing Affordability in Malaysia. Accepted chapter for \textit{Malaysian Housing Affordability – Deciphering the Black Box}, De Gruyter, In press. \url{https://www.degruyter.com/document/doi/10.1515/9783111252520/html?lang=en}.
+<!--
+5. Ng, J. W. J., &#381;elinsk&#253;, T., Forbes, C. S. and Looi, C. H. (2024), Beyond the 30 per cent Threshold: Introducing a Subjective Indicator for Measuring Housing Affordability in Malaysia. In *Malaysian Housing Affordability – Deciphering the Black Box*, De Gruyter.
 
 	\item Thompson, R., Forbes, C. S., MacEachern, S. N. and Peruggia, M. (2023) Familial inference: tests for hypotheses on a family of centres. \textit{Biometrika}, In press. 17 pages. \url{https://doi.org/10.1093/biomet/asad074}. (ABDC Rank A$^*$, Group 1.)
 	
