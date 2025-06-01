@@ -1,0 +1,91 @@
+---
+title: "Research"
+---
+
+
+
+## Books and Monographs
+
+1. Forbes, C. S., Evans, M., Hastings, N., and Peacock, B. (2011) Statistical Distributions (4th ed.) Wiley \& Sons, Inc.  
+2. Flatau, P., Conroy, E., Spooner, C., Edwards, R., Eardley, A. and Forbes, C. (2013) *Lifetime and Intergenerational Experiences of Homelessness in Australia*. Final report for Australian Housing and Urban Research Institute (AHURI), published online [http://www.ahuri.edu.au/](http://www.ahuri.edu.au/) on 21 February 2013.  
+3. Rahman, S. and Forbes, C. (2008) *It's Not Too Late to Care: Report on the Research into Life Outcomes for People Brought Up in Institutional Care in Victoria*. Centre for Excellence in Child; Family Welfare.  
+4. Rahman, S., Forbes, C., \& Inder, B. (2005) *Investing for Success: The Economics of Supporting Young People Leaving Care*. Centre for Excellence in Child; Family Welfare, Monograph 5.  
+5. Forbes, C., Fry, T. and Kofman, P. (Eds.) (1995) *Proceedings of the 1995 Econometrics Conference at Monash*. Monash University.
+
+## Refereed Articles 
+
+1. Jur&#269;i&#353;inov&#225;, V., &#381;elinsk&#253;, T., Forbes C.S. and Ng, J.W.J. (2025) The Mediating Role of Financial Well-Being in the Relationship Between Housing Affordability and Mental Health. *Scientific Reports* (Group 2).  [https://www.nature.com/articles/s41598-025-00997-1](https://www.nature.com/articles/s41598-025-00997-1).   
+2. Johnson, K.T., Powell, L. McGuigan, N., De Jonge, A. Brown, K., Forbes, C.S., Plahe, J. and Tello, E. (2025) Startrack Holdings: a case of inclusive leadership and decision-making.In *Cases and Exercises on Sustainability Accounting*, pp. 181–192, Edward Elgar Publishing. [https://www.e-elgar.com/shop/gbp/cases-and-exercises-on-sustainability-accounting-9781035330591.html](https://www.e-elgar.com/shop/gbp/cases-and-exercises-on-sustainability-accounting-9781035330591.html).  
+3. Cooper A., Simpson, D., Kennedy, L., Forbes, C. and Vehtari, A. (2025) Cross-validatory model selection for Bayesian autoregressions with exogenous regressors, *Bayesian Analysis*, 20(2), 573-597 (ABDC Rank A, Group 2). [https://doi.org/10.1214/23-BA1409](https://doi.org/10.1214/23-BA1409).  
+4. Cooper A., Vehtari, A., Forbes, C., Simpson, D. and Kennedy, L. (2024) Bayesian cross-validation by parallel Markov chain Monte Carlo, *Statistics and Computing*, 34, 119 (ABDC Rank A, Group 2). [https://doi.org/10.1007/s11222-024-10404-w](https://doi.org/10.1007/s11222-024-10404-w).  
+5. Ng, J. W. J., &#381;elinsk&#253;, T., Forbes, C. S. and Looi, C. H. (2024), Beyond the 30 per cent Threshold: Introducing a Subjective Indicator for Measuring Housing Affordability in Malaysia. In *Malaysian Housing Affordability – Deciphering the Black Box*, De Gruyter. [https://www.degruyter.com/document/doi/10.1515/9783111252520/html?lang=en](https://www.degruyter.com/document/doi/10.1515/9783111252520/html?lang=en).  
+6. Thompson, R., Forbes, C. S., MacEachern, S. N. and Peruggia, M. (2024) Familial inference: tests for hypotheses on a family of centres. *Biometrika*  
+111(3), pp 1029–1045 (ABDC Rank A$^*$, Group 1). [https://doi.org/10.1093/biomet/asad074](https://doi.org/10.1093/biomet/asad074).  
+7. Ng, J. W. J., &#381;elinsk&#253;, T., Forbes, C. S. and Looi, C. H. (2024) Measuring subjective housing affordability using a data-driven discrete information approach: A case study of Selangor, Malaysia, *Applied Economics Letters*, 31(19), 1964-1968 (ABDC Rank B). [https://doi.org/10.1080/13504851.2023.2208833](https://doi.org/10.1080/13504851.2023.2208833).  
+8.	Tomasetti, N., Forbes, C. and Panagiotelis, A. (2022) Updating variational Bayes: fast sequential posterior inference. *Statistics and Computing*, 32(1) (ABDC Rank A, Group 2). [https://doi.org/10.1007/s11222-021-10062-2](https://doi.org/10.1007/s11222-021-10062-2).  
+9. Maneesoonthorn,W., Martin, G. M. and Forbes, C. S. (2020) High-frequency jump tests: Which test should we use? *Journal of Econometrics*, 219(2), 478–487 (ABDC Rank A$^*$, Group 1$+$). [https://doi.org/10.1016/j.jeconom.2020.03.012](https://doi.org/10.1016/j.jeconom.2020.03.012).  10. Wang, H., Forbes, C. S., Fenech, J.-P. and Vaz, J. (2020) The determinants of bank loan recovery rates in good times and bad - new evidence. *Journal of Economic Behavior and Organization*, 177, 875–897 (ABDC Rank A$^*$, Group 1). [https://doi.org/10.1016/j.jebo.2020.06.001](https://doi.org/10.1016/j.jebo.2020.06.001).  
+11. Forbes, C. S. and Maneesoonthorn, W. (2017) Discussion of “Deep learning for finance: Deep portfolios.” *Applied Stochastic Models in Business and Industry*, 33(1), 13–15 (ABDC Rank B). [https://doi.org/10.1002/asmb.2223](https://doi.org/10.1002/asmb.2223).  
+12. Maneesoonthorn, W., Forbes, C. S. and Martin, G. M. (2017) Inference on self-exciting jumps in prices and volatility using high-frequency measures. *Journal of Applied Econometrics*, 32(3), 504–532 (ABDC Rank A$^*$, Group 1). [https://doi.org/10.1002/jae.2547](https://doi.org/10.1002/jae.2547).  
+13. Xu, S., In, F., Forbes, C. and Hwang, I. (2017) Systemic risk in the European sovereign and banking system. *Quantitative Finance*, 17(4), 633–656 (ABDC Rank A, Group 2). [https://doi.org/10.1080/14697688.2016.1205212](https://doi.org/10.1080/14697688.2016.1205212).  
+14. Forbes, C. S. (2016) In-sample confidence bands and out-of-sample forecast bands for time-varying parameters: Some comments. *International Journal of Forecasting*, 32(3), 888–890 (ABDC Rank A, Group 2). [https://doi.org/10.1016/j.ijforecast.2016.04.001](https://doi.org/10.1016/j.ijforecast.2016.04.001).  
+15. Forbes, C. S. (2014) Comment on Article by Windle and Carvalho. *Bayesian Analysis*, 9(4), 805–808 (ABDC Rank A, Group 2). [https://doi.org/10.1214/14-BA920](https://doi.org/10.1214/14-BA920).  
+16. Ng, J., Forbes, C. S., Martin, G. M. and McCabe, B. P. M. (2013) Non-parametric estimation of forecast distributions in non-Gaussian, non-linear state space models. *International Journal of Forecasting*, 29(3), 411–430 (ABDC Rank A, Group 2). [https://doi.org/10.1016/j.ijforecast.2012.10.005](https://doi.org/10.1016/j.ijforecast.2012.10.005).  
+17. Maneesoonthorn, W., Martin, G. M., Forbes, C. S. and Grose, S. D. (2012) Probabilistic forecasts of volatility and its risk premia. *Journal of Econometrics*, 171(2), 217–236 (ABDC Rank A$^*$, Group 1$+$). [https://doi.org/10.1016/j.jeconom.2012.06.006](https://doi.org/10.1016/j.jeconom.2012.06.006).  
+18. Forbes, C., ONeill, C., Humphreys, C., Tregeagle, S. and Cox, E. (2011) Foster care and adoption: Carer/parent 	hours over and above “ordinary parenting.” *Children Australia*, 36(2), 56–65 (ABDC Rank C). [doi.org/10.1375/jcas.36.2.56](doi.org/10.1375/jcas.36.2.56).  
+19. Tregeagle, S., Cox, E., Forbes, C., Humphreys, C. and ONeill, C. (2011) Worker time and the cost of stability. *Children and Youth Services Review*, 33(7), 1149–1158 (ABDC Rank C). [https://doi.org/10.1016/j.childyouth.2011.02.009](https://doi.org/10.1016/j.childyouth.2011.02.009).  
+20. Flatau, P., Spencer, M., Eardley, A., Edwards, R., Conroy, E., Spooner, C. and Forbes, C. (2010) Intergenerational homelessness and lifetime experiences of homelessness in Australia: Evidence for the need for early interventions. *Parity, a Publication of the Council To Homeless People*, 23, 47–48. [https://chp.org.au/](https://chp.org.au/).  
+21. Flatau, P., Eardley, A., Spooner, C. and Forbes, C. (2009) *Intergenerational Homelessness and Use of Homelessness Services*, Positioning paper for Australian Housing and Urban 	Research Institute (AHURI), published online [http://www.ahuri.edu.au/](http://www.ahuri.edu.au/) on 20 July 2009.  
+21. O'Neill, C., Tregeagle, S., Forbes, C., Cox, E. and Humphreys, C. (2010) Research report summary: The cost of support for stable foster care and adoption placements. *Developing Practice: The Child Youth and Family Work Journal*, 27, 28–37 (ABDC Rank C).  
+22. Cornwell, K., Forbes, C. S., Inder, B. and Meadows, G. (2009) Mental illness and its effects on labour market outcomes. *Journal of Mental Health Policy and Economics*, 12(3), 107–118 (ABDC Rank C).  
+23. Campbell, R. A. J., Forbes, C. S., Koedijk, K. G. and Kofman, P. (2008) Increasing correlations or just fat tails? *Journal of Empirical Finance*, 15(2), 287–309 (ABDC Rank A, Group 2). [https://doi.org/10.1016/j.jempfin.2007.01.001](https://doi.org/10.1016/j.jempfin.2007.01.001).  
+24. Strickland, C. M., Martin, G. M. and Forbes, C. S. (2008) Parameterisation and efficient MCMC estimation of non-Gaussian state space models. *Computational Statistics and Data Analysis*, 52(6), 2911–2930 (ABDC Rank A, Group 2). [https://doi.org/10.1016/j.csda.2007.10.010](https://doi.org/10.1016/j.csda.2007.10.010).   
+25. Forbes, C. S., Martin, G. M. and Wright, J. (2007) Inference for a class of stochastic volatility models using option and spot prices: Application of a bivariate Kalman filter. *Econometric Reviews*, 26(2-4), 387–418 (ABDC Rank A, Group 2). [https://doi.org/10.1080/07474930701220584](https://doi.org/10.1080/07474930701220584).  
+26. Forbes, C. S., Inder, B. and Rahman, S. (2006) Measuring the cost of leaving care. *Children Australia*, 31(3), 26–33 (ABDC Rank C). [doi.org/10.1017/S1035077200011202](doi.org/10.1017/S1035077200011202).  
+27. Strickland, C. M., Forbes, C. S. and Martin, G. M. (2006) Bayesian analysis of the stochastic conditional duration model. *Computational Statistics and Data Analysis*, 50(9), 2247–2267 (ABDC Rank A, Group 2). [https://doi.org/10.1016/j.csda.2005.07.005](https://doi.org/10.1016/j.csda.2005.07.005).  
+28. Martin, G. M., Forbes, C. S. and Martin, V. L. (2005) Implicit Bayesian inference using option prices. *Journal of Time Series Analysis*, 26(3), 437–462 (ABDC Rank A, Group 2). [ https://doi.org/10.1111/j.1467-9892.2005.00410.x]( https://doi.org/10.1111/j.1467-9892.2005.00410.x).  
+29. Kovacs, G. T., Morgan, G.,Wood, E. C., Howlett, D. and Forbes, C. S. (2003) Community attitudes to assisted reproductive technology: A 20-year trend. *Medical Journal of Australia*, 179(10), 536–538 (ERA2010 Rank A, Group 2). [https://doi.org/10.5694/j.1326-5377.2003.tb05680.x](https://doi.org/10.5694/j.1326-5377.2003.tb05680.x).  
+30. Snyder, R. D. and Forbes, C. S. (2003) Reconstructing the Kalman filter for stationary and non stationary time series. *Studies in Nonlinear Dynamics and Econometrics*, 7(1) (ABDC Rank A, Group 2). (https://doi.org/10.2202/1558-3708.1087)[https://doi.org/10.2202/1558-3708.1087].  
+31. Forbes, C. S., Kalb, G. R. J. and Kofman, P. (1999) Bayesian arbitrage threshold analysis. *Journal of Business and Economic Statistics*, 17(3), 364–372 (ABDC Rank A$^*$, Group 1). [https://doi.org/10.2307/1392294](https://doi.org/10.2307/1392294).  
+32. Martin, G. M. and Forbes, C. S. (1999) Using simulation methods for Bayesian econometric models: Inference development and communication: Some comments. *Econometric Reviews*, 18(1), 113–118 (ABDC Rank A, Group 2). [https://doi.org/10.1080/07474939908800429](https://doi.org/10.1080/07474939908800429).
+33. Berliner, L. M., MacEachern, S. N. and Forbes, C. S. (1997) Ergodic distributions of random dynamical systems. In *Nonlinear Dynamical Systems and Time Series: Building a Bridge Between the Natural and Statistical Sciences*, Fields Institute Communication, Series Vol 11, American Mathematical Society, Providence, RI, pages 171-185. [https://bookstore.ams.org/FIC/11](https://bookstore.ams.org/FIC/11).  
+34. Scipione, C. M. and Berliner, L. M. (1994) Bayesian inference in nonlinear dynamical systems. *Proceedings of the Joint Statistical Meetings 1993*, American Statistical Association, pages 73–79.
+	
+	
+## Editorials, Book Reviews and Working Papers
+
+1. Mendes, P., and Forbes, C. (2006) Guest Editorial. In *Children Australia*. Vol 31. pp 2-3. Cambridge University Press.	 
+2. Forbes, C. S. (2006) Book Review of Resampling Methods: A Practical Guide to Data Analysis. In *Australian and New Zealand Journal of Statistics*. Vol. 41, p. 126. Blackwell.  
+3. Forbes, C. S. and Shami, R. G. (2000) Book review of State Space Modelling with Regime Switching, Classical and Gibbs Sampling Based Approaches with Applications. In *Economic Record* (Vol. 76, p. 105) Economic Society of Australia.  
+4. Leung, P., Forbes, C. S., Martin, G. M. and McCabe, B. (2019) *Forecasting observables with particle filters: Any filter will do!* Department of Econometrics and Business Statistics Working Paper Series, Number 22/2019. Monash University.  
+5. Liu, Z., Forbes, C. S. and Anderson, H. M. (2017) *A Robust Bayesian Exponentially Tilted Empirical Likelihood Method*. Department of Econometrics and Business Statistics Working Paper Series, Number 21/2017. Monash University.  
+6. Forbes, S., C. S. and Shami, R. G. (2006) *Forecasting with Exponential Smoothing: Exact Prediction Distributions in the Presence of Model Uncertainty*. The Australian National University.  
+7. Hanlon, B. and Forbes, C. S. (2002) *Model Selection Criteria for Segmenting Time Series from a Bayesian Approach to Information Compression*. Department of Econometrics and Business Statistics Working Paper Series, Number 8/2002. Monash University.  
+8. Shami, R. and Forbes, C. S. (2002) *Non-linear Modelling of the Australian Business Cycle using a Leading Indicator*. Department of Econometrics and Business StatisticsWorking Paper Series, Number 5/2002. Monash University.  
+9. Forbes, C. S., and Kofman, P. (2000) *Bayesian Soft Target Zones*. Department of Econometrics and Business Statistics Working Paper Series, Number 4/2000. Monash University.  
+10. Forbes, C. S. and Shami, R. G. (2000) *Bayesian Exponential Smoothing*. Department of Econometrics and Business Statistics Working Paper Series, Number 7/2000. Monash University.  
+11. Shami, R. and Forbes, C. S. (2000) *A Structural Time Series Model with Markov Switching*. Department of Econometrics and Business Statistics Working Paper Series, Number 10/2000. Monash University.  
+12. Forbes, C. S. and Kofman, P. (1999) A Non-credible Target Zone Model for Exchange Rate Data. Queensland University of Technology. In *Proceedings of the Queensland Finance Conference*, pages 129-156. Queensland University of Technology.  
+13. Forbes, C. S. and Kofman, P. (1999) Bayesian Soft Target Zone Analysis. In *Proceedings of the 1999 Econometric Society Australasian Meeting*.  University of Technology, Sydney.  
+14. Forbes, C. S., King, M. L. and Morgan, A. (1995) A Small Sample Variable Selection Procedure. In *Proceedings of the 1995 Econometrics Conference at Monash*. Monash University.
+	
+## Major Research Reports
+
+1. Forbes, C. S. (2011) *OHS Champion Project*, Final Monograph. For the Centre for Excellence in Child and Family Welfare.  
+2. Forbes, C. S. (2010) *OHS Champion Project Survey Data Analysis*. For the Centre for Excellence in Child and Family Welfare.  
+3. O’Neill, C., Forbes, C., Tregeagle, S., Cox, E. and Humphreys, C. (2010) *The Cost of Support for Stable Foster Care Placements*. For the Ian Potter Foundation.  
+4. Forbes, C. S. (2007) *Analysis of the Stability in Care Audit Data*. For the Victorian Department of Human Services.  
+5. Forbes, C. S. (2006) *Evaluation of the Relationship between Public and Private Equity Markets – Extension of the Quarterly Vector AutoRegression Approach using Univariate Regression*. For the Russell Investment Group.  
+6. Forbes, C. S. (2006) *Evaluation of the Relationship Retween Public and Private Equity Markets using a Quarterly Vector AutoRegression Approach*. For the Russell Investment Group.  
+7. Forbes, C. S. (2005) *An Evaluation of Private Market Investment Performance*. For the Russell Investment Group.  
+8. Forbes, C. S. and Abeyewardene, K. (2004) *Portfolio Analysis using Multivariate GARCH Modelling: Private Equity through PIPs*. For The Russell Investment Group (formerly Towers Perrin).  
+9. Forbes, C. S. and Abeyewardene, K. (2004) *Portfolio Analysis using Multivariate GARCH Modelling: Currency Effects*. For Towers Perrin.  
+10. King, M. L. and Forbes, C. S. (2004) *An Econometric Analysis Determining the Evidence of Differences Between Rural and Urban Betas for Electricity Distributors*. For Powercor.  
+11. Forbes, C. S. and Abeyewardene, K. (2003) *Portfolio Analysis using Multivariate GARCH Modelling: Joint Modelling of Returns Series having Differing Observed Frequencies*. For Towers Perrin.  
+12. Forbes, C. S. and Abeyewardene, K. (2002) *Portfolio Analysis using Multivariate GARCH Modelling: An Initial Investigation*. For Towers Perrin.  
+13. Gordon-Brown, L., Forbes, C. S. and Hyndman, R. J. (2002) *Expert Review of Emissions Projections Methodology.* For the Australian Greenhouse Office.  
+14. Hyndman, R. J., Forbes, C. S. Abeyewardene, K. (2002) *Evaluation of Injury Management Pilots*. For WorkCover, NSW.  
+15. Forbes, C. S. (2001) *Comparison of Factor Models for PANSS Data*. For Dr. P. Fitzgerald, Monash University and Dandenong Hospital.  
+16. Forbes, C. S. and Gunn, L. D. (2001) *Confirmatory Factor Analysis for PANSS Data.* For Dr. P. Fitzgerald, Monash University and Dandenong Hospital.  
+
+
+

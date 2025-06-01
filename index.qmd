@@ -1,5 +1,4 @@
 ---
-title: "About Me"
 about:
   id: me
   template: broadside
@@ -8,15 +7,42 @@ about:
 
 :::{#me}
 
-## About me
+## 
 
-I am a Professor of Econometrics at Monash University in Melbourne, Australia. In addition to researching and teaching topics in Bayesian inference and data analysis, I am also currently Deputy Head of and Director of Education for the Department of Econometrics and Business Statistics.
-
-## Education
-
-I hold a PhD in Mathematical Statistics from The Ohio State University.
+**Professor Catherine Forbes**  
+Department of Econometrics & Business Statistics  
+Monash University, Australia.
 
 
+## 
+
+**Education**  
+1992 PhD Mathematical Statistics, The Ohio State University  
+  Thesis title: *Statistical Inference in Nonlinear Dynamical Systems*
+  Advisor: L. Mark Berliner  
+
+1989 MSc Mathematical Statistics, The Ohio State University  
+1986 BSc Mathematics, Theatre Arts, Xavier University 
+
+&nbsp;
+
+Please check back again for updates, as this site is a work-in-progress!
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 :::
 
 <!--Thanks for checking out my web site!-->

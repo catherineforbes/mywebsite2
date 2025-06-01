@@ -8,10 +8,11 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - projects.qmd
+      - career.qmd
+      - pubs.qmd
     tools:
-      - icon: twitter
-        href: https://twitter.com/
+      - icon: google
+        href: https://scholar.google.com.au/citations?user=jm73LccAAAAJ&hl=en
       - icon: github
         href: https://github.com/catherineforbes/mywebsite2
   page-footer:

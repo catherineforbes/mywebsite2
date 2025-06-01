@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>About – Catherine Scipione Forbes</title>
+<title>Research – Catherine Scipione Forbes</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -67,6 +67,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -96,7 +125,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Leadership</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./pubs.html"> 
+    <a class="nav-link active" href="./pubs.html" aria-current="page"> 
 <span class="menu-text">Research</span></a>
   </li>  
 </ul>
@@ -117,11 +146,10 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#education" id="toc-education" class="nav-link active" data-scroll-target="#education">Education</a></li>
-  <li><a href="#current-positions" id="toc-current-positions" class="nav-link" data-scroll-target="#current-positions">Current Positions</a></li>
-  <li><a href="#previous-appointments" id="toc-previous-appointments" class="nav-link" data-scroll-target="#previous-appointments">Previous Appointments</a></li>
-  <li><a href="#other-past-roles" id="toc-other-past-roles" class="nav-link" data-scroll-target="#other-past-roles">Other Past Roles</a></li>
-  <li><a href="#conference-organisation" id="toc-conference-organisation" class="nav-link" data-scroll-target="#conference-organisation">Conference Organisation</a></li>
+  <li><a href="#books-and-monographs" id="toc-books-and-monographs" class="nav-link active" data-scroll-target="#books-and-monographs">Books and Monographs</a></li>
+  <li><a href="#refereed-articles" id="toc-refereed-articles" class="nav-link" data-scroll-target="#refereed-articles">Refereed Articles</a></li>
+  <li><a href="#editorials-book-reviews-and-working-papers" id="toc-editorials-book-reviews-and-working-papers" class="nav-link" data-scroll-target="#editorials-book-reviews-and-working-papers">Editorials, Book Reviews and Working Papers</a></li>
+  <li><a href="#major-research-reports" id="toc-major-research-reports" class="nav-link" data-scroll-target="#major-research-reports">Major Research Reports</a></li>
   </ul>
 </nav>
     </div>
@@ -130,7 +158,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">About</h1>
+<h1 class="title">Research</h1>
 </div>
 
 
@@ -147,137 +175,159 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="education" class="level2">
-<h2 class="anchored" data-anchor-id="education">Education</h2>
-<p>1992 PhD Mathematical Statistics, The Ohio State University<br>
-Thesis title: <em>Statistical Inference in Nonlinear Dynamical Systems</em> Advisor: L. Mark Berliner</p>
-<p>1989 MSc Mathematical Statistics, The Ohio State University</p>
-<p>1986 BSc Mathematics, Theatre Arts, Xavier University</p>
+<section id="books-and-monographs" class="level2">
+<h2 class="anchored" data-anchor-id="books-and-monographs">Books and Monographs</h2>
+<ol type="1">
+<li>Forbes, C. S., Evans, M., Hastings, N., and Peacock, B. (2011) Statistical Distributions (4th ed.) Wiley &amp; Sons, Inc.<br>
+</li>
+<li>Flatau, P., Conroy, E., Spooner, C., Edwards, R., Eardley, A. and Forbes, C. (2013) <em>Lifetime and Intergenerational Experiences of Homelessness in Australia</em>. Final report for Australian Housing and Urban Research Institute (AHURI), published online <a href="http://www.ahuri.edu.au/">http://www.ahuri.edu.au/</a> on 21 February 2013.<br>
+</li>
+<li>Rahman, S. and Forbes, C. (2008) <em>It’s Not Too Late to Care: Report on the Research into Life Outcomes for People Brought Up in Institutional Care in Victoria</em>. Centre for Excellence in Child; Family Welfare.<br>
+</li>
+<li>Rahman, S., Forbes, C., &amp; Inder, B. (2005) <em>Investing for Success: The Economics of Supporting Young People Leaving Care</em>. Centre for Excellence in Child; Family Welfare, Monograph 5.<br>
+</li>
+<li>Forbes, C., Fry, T. and Kofman, P. (Eds.) (1995) <em>Proceedings of the 1995 Econometrics Conference at Monash</em>. Monash University.</li>
+</ol>
 </section>
-<section id="current-positions" class="level2">
-<h2 class="anchored" data-anchor-id="current-positions">Current Positions</h2>
-<ul>
-<li>Professor, Department of Econometrics and Business Statistics (EBS), Monash University, Melbourne, Australia, since July 2023.<br>
+<section id="refereed-articles" class="level2">
+<h2 class="anchored" data-anchor-id="refereed-articles">Refereed Articles</h2>
+<ol type="1">
+<li>Jurčišinová, V., Želinský, T., Forbes C.S. and Ng, J.W.J. (2025) The Mediating Role of Financial Well-Being in the Relationship Between Housing Affordability and Mental Health. <em>Scientific Reports</em> (Group 2). <a href="https://www.nature.com/articles/s41598-025-00997-1">https://www.nature.com/articles/s41598-025-00997-1</a>.<br>
 </li>
-<li>Deputy Head, EBS Monash University, since January 2024.<br>
+<li>Johnson, K.T., Powell, L. McGuigan, N., De Jonge, A. Brown, K., Forbes, C.S., Plahe, J. and Tello, E. (2025) Startrack Holdings: a case of inclusive leadership and decision-making.In <em>Cases and Exercises on Sustainability Accounting</em>, pp.&nbsp;181–192, Edward Elgar Publishing. <a href="https://www.e-elgar.com/shop/gbp/cases-and-exercises-on-sustainability-accounting-9781035330591.html">https://www.e-elgar.com/shop/gbp/cases-and-exercises-on-sustainability-accounting-9781035330591.html</a>.<br>
 </li>
-<li>Director of Education, EBS Monash University, since January 2025.<br>
+<li>Cooper A., Simpson, D., Kennedy, L., Forbes, C. and Vehtari, A. (2025) Cross-validatory model selection for Bayesian autoregressions with exogenous regressors, <em>Bayesian Analysis</em>, 20(2), 573-597 (ABDC Rank A, Group 2). <a href="https://doi.org/10.1214/23-BA1409">https://doi.org/10.1214/23-BA1409</a>.<br>
 </li>
-<li>Adjunct Professor, School of Mathematical Sciences, Sunway University, Selangor, Malaysia, since July 2023.<br>
+<li>Cooper A., Vehtari, A., Forbes, C., Simpson, D. and Kennedy, L. (2024) Bayesian cross-validation by parallel Markov chain Monte Carlo, <em>Statistics and Computing</em>, 34, 119 (ABDC Rank A, Group 2). <a href="https://doi.org/10.1007/s11222-024-10404-w">https://doi.org/10.1007/s11222-024-10404-w</a>.<br>
 </li>
-<li>Elected Member, International Statistical Institute, since September 2018.<br>
+<li>Ng, J. W. J., Želinský, T., Forbes, C. S. and Looi, C. H. (2024), Beyond the 30 per cent Threshold: Introducing a Subjective Indicator for Measuring Housing Affordability in Malaysia. In <em>Malaysian Housing Affordability – Deciphering the Black Box</em>, De Gruyter. <a href="https://www.degruyter.com/document/doi/10.1515/9783111252520/html?lang=en">https://www.degruyter.com/document/doi/10.1515/9783111252520/html?lang=en</a>.<br>
 </li>
-<li>Associate Editor, <em>Applied Stochastic Models in Business and Industry</em>, since January 2016.<br>
+<li>Thompson, R., Forbes, C. S., MacEachern, S. N. and Peruggia, M. (2024) Familial inference: tests for hypotheses on a family of centres. <em>Biometrika</em><br>
+111(3), pp 1029–1045 (ABDC Rank A<span class="math inline">\(^*\)</span>, Group 1). <a href="https://doi.org/10.1093/biomet/asad074">https://doi.org/10.1093/biomet/asad074</a>.<br>
 </li>
-<li>Professional Conduct Committee, International Society for Bayesian Analysis (ISBA), 2021 - 2025.</li>
-</ul>
+<li>Ng, J. W. J., Želinský, T., Forbes, C. S. and Looi, C. H. (2024) Measuring subjective housing affordability using a data-driven discrete information approach: A case study of Selangor, Malaysia, <em>Applied Economics Letters</em>, 31(19), 1964-1968 (ABDC Rank B). <a href="https://doi.org/10.1080/13504851.2023.2208833">https://doi.org/10.1080/13504851.2023.2208833</a>.<br>
+</li>
+<li>Tomasetti, N., Forbes, C. and Panagiotelis, A. (2022) Updating variational Bayes: fast sequential posterior inference. <em>Statistics and Computing</em>, 32(1) (ABDC Rank A, Group 2). <a href="https://doi.org/10.1007/s11222-021-10062-2">https://doi.org/10.1007/s11222-021-10062-2</a>.<br>
+</li>
+<li>Maneesoonthorn,W., Martin, G. M. and Forbes, C. S. (2020) High-frequency jump tests: Which test should we use? <em>Journal of Econometrics</em>, 219(2), 478–487 (ABDC Rank A<span class="math inline">\(^*\)</span>, Group 1<span class="math inline">\(+\)</span>). <a href="https://doi.org/10.1016/j.jeconom.2020.03.012">https://doi.org/10.1016/j.jeconom.2020.03.012</a>. 10. Wang, H., Forbes, C. S., Fenech, J.-P. and Vaz, J. (2020) The determinants of bank loan recovery rates in good times and bad - new evidence. <em>Journal of Economic Behavior and Organization</em>, 177, 875–897 (ABDC Rank A<span class="math inline">\(^*\)</span>, Group 1). <a href="https://doi.org/10.1016/j.jebo.2020.06.001">https://doi.org/10.1016/j.jebo.2020.06.001</a>.<br>
+</li>
+<li>Forbes, C. S. and Maneesoonthorn, W. (2017) Discussion of “Deep learning for finance: Deep portfolios.” <em>Applied Stochastic Models in Business and Industry</em>, 33(1), 13–15 (ABDC Rank B). <a href="https://doi.org/10.1002/asmb.2223">https://doi.org/10.1002/asmb.2223</a>.<br>
+</li>
+<li>Maneesoonthorn, W., Forbes, C. S. and Martin, G. M. (2017) Inference on self-exciting jumps in prices and volatility using high-frequency measures. <em>Journal of Applied Econometrics</em>, 32(3), 504–532 (ABDC Rank A<span class="math inline">\(^*\)</span>, Group 1). <a href="https://doi.org/10.1002/jae.2547">https://doi.org/10.1002/jae.2547</a>.<br>
+</li>
+<li>Xu, S., In, F., Forbes, C. and Hwang, I. (2017) Systemic risk in the European sovereign and banking system. <em>Quantitative Finance</em>, 17(4), 633–656 (ABDC Rank A, Group 2). <a href="https://doi.org/10.1080/14697688.2016.1205212">https://doi.org/10.1080/14697688.2016.1205212</a>.<br>
+</li>
+<li>Forbes, C. S. (2016) In-sample confidence bands and out-of-sample forecast bands for time-varying parameters: Some comments. <em>International Journal of Forecasting</em>, 32(3), 888–890 (ABDC Rank A, Group 2). <a href="https://doi.org/10.1016/j.ijforecast.2016.04.001">https://doi.org/10.1016/j.ijforecast.2016.04.001</a>.<br>
+</li>
+<li>Forbes, C. S. (2014) Comment on Article by Windle and Carvalho. <em>Bayesian Analysis</em>, 9(4), 805–808 (ABDC Rank A, Group 2). <a href="https://doi.org/10.1214/14-BA920">https://doi.org/10.1214/14-BA920</a>.<br>
+</li>
+<li>Ng, J., Forbes, C. S., Martin, G. M. and McCabe, B. P. M. (2013) Non-parametric estimation of forecast distributions in non-Gaussian, non-linear state space models. <em>International Journal of Forecasting</em>, 29(3), 411–430 (ABDC Rank A, Group 2). <a href="https://doi.org/10.1016/j.ijforecast.2012.10.005">https://doi.org/10.1016/j.ijforecast.2012.10.005</a>.<br>
+</li>
+<li>Maneesoonthorn, W., Martin, G. M., Forbes, C. S. and Grose, S. D. (2012) Probabilistic forecasts of volatility and its risk premia. <em>Journal of Econometrics</em>, 171(2), 217–236 (ABDC Rank A<span class="math inline">\(^*\)</span>, Group 1<span class="math inline">\(+\)</span>). <a href="https://doi.org/10.1016/j.jeconom.2012.06.006">https://doi.org/10.1016/j.jeconom.2012.06.006</a>.<br>
+</li>
+<li>Forbes, C., ONeill, C., Humphreys, C., Tregeagle, S. and Cox, E. (2011) Foster care and adoption: Carer/parent hours over and above “ordinary parenting.” <em>Children Australia</em>, 36(2), 56–65 (ABDC Rank C). <a href="doi.org/10.1375/jcas.36.2.56">doi.org/10.1375/jcas.36.2.56</a>.<br>
+</li>
+<li>Tregeagle, S., Cox, E., Forbes, C., Humphreys, C. and ONeill, C. (2011) Worker time and the cost of stability. <em>Children and Youth Services Review</em>, 33(7), 1149–1158 (ABDC Rank C). <a href="https://doi.org/10.1016/j.childyouth.2011.02.009">https://doi.org/10.1016/j.childyouth.2011.02.009</a>.<br>
+</li>
+<li>Flatau, P., Spencer, M., Eardley, A., Edwards, R., Conroy, E., Spooner, C. and Forbes, C. (2010) Intergenerational homelessness and lifetime experiences of homelessness in Australia: Evidence for the need for early interventions. <em>Parity, a Publication of the Council To Homeless People</em>, 23, 47–48. <a href="https://chp.org.au/">https://chp.org.au/</a>.<br>
+</li>
+<li>Flatau, P., Eardley, A., Spooner, C. and Forbes, C. (2009) <em>Intergenerational Homelessness and Use of Homelessness Services</em>, Positioning paper for Australian Housing and Urban Research Institute (AHURI), published online <a href="http://www.ahuri.edu.au/">http://www.ahuri.edu.au/</a> on 20 July 2009.<br>
+</li>
+<li>O’Neill, C., Tregeagle, S., Forbes, C., Cox, E. and Humphreys, C. (2010) Research report summary: The cost of support for stable foster care and adoption placements. <em>Developing Practice: The Child Youth and Family Work Journal</em>, 27, 28–37 (ABDC Rank C).<br>
+</li>
+<li>Cornwell, K., Forbes, C. S., Inder, B. and Meadows, G. (2009) Mental illness and its effects on labour market outcomes. <em>Journal of Mental Health Policy and Economics</em>, 12(3), 107–118 (ABDC Rank C).<br>
+</li>
+<li>Campbell, R. A. J., Forbes, C. S., Koedijk, K. G. and Kofman, P. (2008) Increasing correlations or just fat tails? <em>Journal of Empirical Finance</em>, 15(2), 287–309 (ABDC Rank A, Group 2). <a href="https://doi.org/10.1016/j.jempfin.2007.01.001">https://doi.org/10.1016/j.jempfin.2007.01.001</a>.<br>
+</li>
+<li>Strickland, C. M., Martin, G. M. and Forbes, C. S. (2008) Parameterisation and efficient MCMC estimation of non-Gaussian state space models. <em>Computational Statistics and Data Analysis</em>, 52(6), 2911–2930 (ABDC Rank A, Group 2). <a href="https://doi.org/10.1016/j.csda.2007.10.010">https://doi.org/10.1016/j.csda.2007.10.010</a>.<br>
+</li>
+<li>Forbes, C. S., Martin, G. M. and Wright, J. (2007) Inference for a class of stochastic volatility models using option and spot prices: Application of a bivariate Kalman filter. <em>Econometric Reviews</em>, 26(2-4), 387–418 (ABDC Rank A, Group 2). <a href="https://doi.org/10.1080/07474930701220584">https://doi.org/10.1080/07474930701220584</a>.<br>
+</li>
+<li>Forbes, C. S., Inder, B. and Rahman, S. (2006) Measuring the cost of leaving care. <em>Children Australia</em>, 31(3), 26–33 (ABDC Rank C). <a href="doi.org/10.1017/S1035077200011202">doi.org/10.1017/S1035077200011202</a>.<br>
+</li>
+<li>Strickland, C. M., Forbes, C. S. and Martin, G. M. (2006) Bayesian analysis of the stochastic conditional duration model. <em>Computational Statistics and Data Analysis</em>, 50(9), 2247–2267 (ABDC Rank A, Group 2). <a href="https://doi.org/10.1016/j.csda.2005.07.005">https://doi.org/10.1016/j.csda.2005.07.005</a>.<br>
+</li>
+<li>Martin, G. M., Forbes, C. S. and Martin, V. L. (2005) Implicit Bayesian inference using option prices. <em>Journal of Time Series Analysis</em>, 26(3), 437–462 (ABDC Rank A, Group 2). <a href="https://doi.org/10.1111/j.1467-9892.2005.00410.x">https://doi.org/10.1111/j.1467-9892.2005.00410.x</a>.<br>
+</li>
+<li>Kovacs, G. T., Morgan, G.,Wood, E. C., Howlett, D. and Forbes, C. S. (2003) Community attitudes to assisted reproductive technology: A 20-year trend. <em>Medical Journal of Australia</em>, 179(10), 536–538 (ERA2010 Rank A, Group 2). <a href="https://doi.org/10.5694/j.1326-5377.2003.tb05680.x">https://doi.org/10.5694/j.1326-5377.2003.tb05680.x</a>.<br>
+</li>
+<li>Snyder, R. D. and Forbes, C. S. (2003) Reconstructing the Kalman filter for stationary and non stationary time series. <em>Studies in Nonlinear Dynamics and Econometrics</em>, 7(1) (ABDC Rank A, Group 2). (https://doi.org/10.2202/1558-3708.1087)[https://doi.org/10.2202/1558-3708.1087].<br>
+</li>
+<li>Forbes, C. S., Kalb, G. R. J. and Kofman, P. (1999) Bayesian arbitrage threshold analysis. <em>Journal of Business and Economic Statistics</em>, 17(3), 364–372 (ABDC Rank A<span class="math inline">\(^*\)</span>, Group 1). <a href="https://doi.org/10.2307/1392294">https://doi.org/10.2307/1392294</a>.<br>
+</li>
+<li>Martin, G. M. and Forbes, C. S. (1999) Using simulation methods for Bayesian econometric models: Inference development and communication: Some comments. <em>Econometric Reviews</em>, 18(1), 113–118 (ABDC Rank A, Group 2). <a href="https://doi.org/10.1080/07474939908800429">https://doi.org/10.1080/07474939908800429</a>.</li>
+<li>Berliner, L. M., MacEachern, S. N. and Forbes, C. S. (1997) Ergodic distributions of random dynamical systems. In <em>Nonlinear Dynamical Systems and Time Series: Building a Bridge Between the Natural and Statistical Sciences</em>, Fields Institute Communication, Series Vol 11, American Mathematical Society, Providence, RI, pages 171-185. <a href="https://bookstore.ams.org/FIC/11">https://bookstore.ams.org/FIC/11</a>.<br>
+</li>
+<li>Scipione, C. M. and Berliner, L. M. (1994) Bayesian inference in nonlinear dynamical systems. <em>Proceedings of the Joint Statistical Meetings 1993</em>, American Statistical Association, pages 73–79.</li>
+</ol>
 </section>
-<section id="previous-appointments" class="level2">
-<h2 class="anchored" data-anchor-id="previous-appointments">Previous Appointments</h2>
-<ul>
-<li>Associate Professor, EBS, Monash University, 2011 - Jun 2023.<br>
+<section id="editorials-book-reviews-and-working-papers" class="level2">
+<h2 class="anchored" data-anchor-id="editorials-book-reviews-and-working-papers">Editorials, Book Reviews and Working Papers</h2>
+<ol type="1">
+<li>Mendes, P., and Forbes, C. (2006) Guest Editorial. In <em>Children Australia</em>. Vol 31. pp 2-3. Cambridge University Press.<br>
 </li>
-<li>Adjunct Associate Professor, Sunway University, Nov 2022 - Jun 2023.<br>
+<li>Forbes, C. S. (2006) Book Review of Resampling Methods: A Practical Guide to Data Analysis. In <em>Australian and New Zealand Journal of Statistics</em>. Vol. 41, p.&nbsp;126. Blackwell.<br>
 </li>
-<li>Senior Lecturer, EBS, Monash University, 2004 - 2010.<br>
+<li>Forbes, C. S. and Shami, R. G. (2000) Book review of State Space Modelling with Regime Switching, Classical and Gibbs Sampling Based Approaches with Applications. In <em>Economic Record</em> (Vol. 76, p.&nbsp;105) Economic Society of Australia.<br>
 </li>
-<li>Lecturer (permanent, part-time), EBS, Monash University, Jul 2001-2003.<br>
+<li>Leung, P., Forbes, C. S., Martin, G. M. and McCabe, B. (2019) <em>Forecasting observables with particle filters: Any filter will do!</em> Department of Econometrics and Business Statistics Working Paper Series, Number 22/2019. Monash University.<br>
 </li>
-<li>Lecturer (part-time), EBS, Monash University, 1996 - Jun 2001.<br>
+<li>Liu, Z., Forbes, C. S. and Anderson, H. M. (2017) <em>A Robust Bayesian Exponentially Tilted Empirical Likelihood Method</em>. Department of Econometrics and Business Statistics Working Paper Series, Number 21/2017. Monash University.<br>
 </li>
-<li>Research Fellow, EBS, Monash University, Apr 1993 - 1995.<br>
+<li>Forbes, S., C. S. and Shami, R. G. (2006) <em>Forecasting with Exponential Smoothing: Exact Prediction Distributions in the Presence of Model Uncertainty</em>. The Australian National University.<br>
 </li>
-<li>Visiting Professor, Department of Statistics, Ohio State University, Jan - Mar 1993.<br>
+<li>Hanlon, B. and Forbes, C. S. (2002) <em>Model Selection Criteria for Segmenting Time Series from a Bayesian Approach to Information Compression</em>. Department of Econometrics and Business Statistics Working Paper Series, Number 8/2002. Monash University.<br>
 </li>
-<li>Visiting Academic, July-Dec, Department of Mathematics, Monash University, Jul - Dec 1992.<br>
+<li>Shami, R. and Forbes, C. S. (2002) <em>Non-linear Modelling of the Australian Business Cycle using a Leading Indicator</em>. Department of Econometrics and Business StatisticsWorking Paper Series, Number 5/2002. Monash University.<br>
 </li>
-<li>Statistical Consultant, Procter &amp; Gamble Corporation, Cincinnati, Ohio, Jun - Sep 1988.</li>
-</ul>
+<li>Forbes, C. S., and Kofman, P. (2000) <em>Bayesian Soft Target Zones</em>. Department of Econometrics and Business Statistics Working Paper Series, Number 4/2000. Monash University.<br>
+</li>
+<li>Forbes, C. S. and Shami, R. G. (2000) <em>Bayesian Exponential Smoothing</em>. Department of Econometrics and Business Statistics Working Paper Series, Number 7/2000. Monash University.<br>
+</li>
+<li>Shami, R. and Forbes, C. S. (2000) <em>A Structural Time Series Model with Markov Switching</em>. Department of Econometrics and Business Statistics Working Paper Series, Number 10/2000. Monash University.<br>
+</li>
+<li>Forbes, C. S. and Kofman, P. (1999) A Non-credible Target Zone Model for Exchange Rate Data. Queensland University of Technology. In <em>Proceedings of the Queensland Finance Conference</em>, pages 129-156. Queensland University of Technology.<br>
+</li>
+<li>Forbes, C. S. and Kofman, P. (1999) Bayesian Soft Target Zone Analysis. In <em>Proceedings of the 1999 Econometric Society Australasian Meeting</em>. University of Technology, Sydney.<br>
+</li>
+<li>Forbes, C. S., King, M. L. and Morgan, A. (1995) A Small Sample Variable Selection Procedure. In <em>Proceedings of the 1995 Econometrics Conference at Monash</em>. Monash University.</li>
+</ol>
 </section>
-<section id="other-past-roles" class="level2">
-<h2 class="anchored" data-anchor-id="other-past-roles">Other Past Roles</h2>
-<ul>
-<li>Director of Graduate Research, EBS Monash University, July 2022 - Dec 2024.<br>
+<section id="major-research-reports" class="level2">
+<h2 class="anchored" data-anchor-id="major-research-reports">Major Research Reports</h2>
+<ol type="1">
+<li>Forbes, C. S. (2011) <em>OHS Champion Project</em>, Final Monograph. For the Centre for Excellence in Child and Family Welfare.<br>
 </li>
-<li>Member, Eight Academic Selection Panels (levels B/C/D), EBS Monash University, 2019 - 2025.<br>
+<li>Forbes, C. S. (2010) <em>OHS Champion Project Survey Data Analysis</em>. For the Centre for Excellence in Child and Family Welfare.<br>
 </li>
-<li>Member, Academic Selection Panel, Professor (Research), Monash University Malaysia, School of Business, 2024.<br>
+<li>O’Neill, C., Forbes, C., Tregeagle, S., Cox, E. and Humphreys, C. (2010) <em>The Cost of Support for Stable Foster Care Placements</em>. For the Ian Potter Foundation.<br>
 </li>
-<li>Member, External Review Panel for Monash Centre for Quantitative Finance and Investment Strategies (CQFIS), 2024.<br>
+<li>Forbes, C. S. (2007) <em>Analysis of the Stability in Care Audit Data</em>. For the Victorian Department of Human Services.<br>
 </li>
-<li>Chair, ISBA EFaB Section, 2023. (Chair-Elect 2022, Past Chair 2024).<br>
+<li>Forbes, C. S. (2006) <em>Evaluation of the Relationship between Public and Private Equity Markets – Extension of the Quarterly Vector AutoRegression Approach using Univariate Regression</em>. For the Russell Investment Group.<br>
 </li>
-<li>Academic Progresss Committee, Monash Business School, Monash University, 2021 - 2022. - Equity, Diversity and Social Inclusion Committee (EDSIC), Monash Business School, Monash University, 2018 - 2022.<br>
+<li>Forbes, C. S. (2006) <em>Evaluation of the Relationship Retween Public and Private Equity Markets using a Quarterly Vector AutoRegression Approach</em>. For the Russell Investment Group.<br>
 </li>
-<li>Vision Statement Working Group, Monash Business School, Monash University, 2020 - 2021.<br>
+<li>Forbes, C. S. (2005) <em>An Evaluation of Private Market Investment Performance</em>. For the Russell Investment Group.<br>
 </li>
-<li>Associate Editor, <em>Bayesian Analysis</em>, 2019 - 2021.<br>
+<li>Forbes, C. S. and Abeyewardene, K. (2004) <em>Portfolio Analysis using Multivariate GARCH Modelling: Private Equity through PIPs</em>. For The Russell Investment Group (formerly Towers Perrin).<br>
 </li>
-<li>Secretary, ISBA Economics, Finance and Business (EFaB) Section, 2019 - 2020.<br>
+<li>Forbes, C. S. and Abeyewardene, K. (2004) <em>Portfolio Analysis using Multivariate GARCH Modelling: Currency Effects</em>. For Towers Perrin.<br>
 </li>
-<li>Elected Member, ISBA Board, 2017 - 2019.<br>
+<li>King, M. L. and Forbes, C. S. (2004) <em>An Econometric Analysis Determining the Evidence of Differences Between Rural and Urban Betas for Electricity Distributors</em>. For Powercor.<br>
 </li>
-<li>Selection Committee, Business Analytics Prize, ARC Centre of Excellence for Mathematical &amp; Statistical Frontiers, 2016 - 2019.<br>
+<li>Forbes, C. S. and Abeyewardene, K. (2003) <em>Portfolio Analysis using Multivariate GARCH Modelling: Joint Modelling of Returns Series having Differing Observed Frequencies</em>. For Towers Perrin.<br>
 </li>
-<li>Director of Education, EBS, Monash University, 2014–1016.<br>
+<li>Forbes, C. S. and Abeyewardene, K. (2002) <em>Portfolio Analysis using Multivariate GARCH Modelling: An Initial Investigation</em>. For Towers Perrin.<br>
 </li>
-<li>Member, Faculty Education Committee (FEC), Monash Business School, 2012–2013.<br>
+<li>Gordon-Brown, L., Forbes, C. S. and Hyndman, R. J. (2002) <em>Expert Review of Emissions Projections Methodology.</em> For the Australian Greenhouse Office.<br>
 </li>
-<li>Member, Faculty Board, Faculty of Business &amp; Economics, Monash University, 2006–2013.</li>
-<li>Faculty Board (Dean’s Nominee), Faculty of Information Technology, Monash University, 2012.<br>
+<li>Hyndman, R. J., Forbes, C. S. Abeyewardene, K. (2002) <em>Evaluation of Injury Management Pilots</em>. For WorkCover, NSW.<br>
 </li>
-<li>PhD Conflict Investigation Panel, Faculty of Business &amp; Economics, 2012.<br>
+<li>Forbes, C. S. (2001) <em>Comparison of Factor Models for PANSS Data</em>. For Dr.&nbsp;P. Fitzgerald, Monash University and Dandenong Hospital.<br>
 </li>
-<li>Alternate Member Faculty Education Committee, Monash Business School, 2010 - 2011.<br>
-</li>
-<li>Steering Committee, Forgotten Australians Project, Centre for Excellence in Child and Family Welfare, 2007 - 2008.<br>
-</li>
-<li>Book Review Editor, <em>Australian &amp; New Zealand Journal of Statistics</em>, 2002 - 2007.<br>
-</li>
-<li>Guest Co-Editor, <em>Children Australia</em>, 31(3), Special Issue on Young People Leaving Care, 2006.<br>
-</li>
-<li>Steering Committee, <em>Telstra Leaving Care Project</em>, Centre for Excellence in Child and Family Welfare, 2004 - 2005.<br>
-</li>
-<li>Acting Director of Consulting, EBS, Monash University, June - Nov 2002.<br>
-</li>
-<li>Deputy Director of Consulting, EBS, Monash University, 2001 - 2002.</li>
-</ul>
-</section>
-<section id="conference-organisation" class="level2">
-<h2 class="anchored" data-anchor-id="conference-organisation">Conference Organisation</h2>
-<ul>
-<li>Scientific Committee, 2024 ISBA Bayesian Nonparametric Networking Workshop, National University of Singapore, <a href="https://bnp-networking2024.github.io/">https://bnp-networking2024.github.io/</a>.<br>
-</li>
-<li>Chair, Organizing Committee and Member, Scientific Committee, 2023 ISBA BNP Networking Workshop, Monash University, <a href="https://www.monash.edu/business/events/past-events/econometrics-and-business-statistics/bayesian-nonparametrics-networking-workshop-bnpnet-2023">https://www.monash.edu/business/events/past-events/econometrics-and-business-statistics/bayesian-nonparametrics-networking-workshop-bnpnet-2023</a>.<br>
-</li>
-<li>Co-Chair, Organizing Committee, 2023 Workshop in honour of Professors Donald Poskitt and Gael Martin, <a href="https://www.monash.edu/business/events/past-events/econometrics-and-business-statistics/2023-workshop-in-honour-of-professors-donald-poskitt-and-gael-martin">https://www.monash.edu/business/events/past-events/econometrics-and-business-statistics/2023-workshop-in-honour-of-professors-donald-poskitt-and-gael-martin</a>.<br>
-</li>
-<li>Scientific Committee, 13th ISBA BNP Conference (2022), Puerto Varas, Chile, <a href="https://midas.mat.uc.cl/bnp13/">https://midas.mat.uc.cl/bnp13/</a>.<br>
-</li>
-<li>Scientific Committee, 15th CFE Conference (2021), London, UK, <a href="http://www.cfenetwork.org/CFE2021/">http://www.cfenetwork.org/CFE2021/</a>.<br>
-</li>
-<li>Scientific Committee, 13th CFE Conference (2019), London, UK, <a href="http://www.cfenetwork.org/CFE2019/">http://www.cfenetwork.org/CFE2019/</a>.<br>
-</li>
-<li>Scientific Committee, 12th SoFiE Conference (2019) Shanghai, China, <a href="https://econ.fudan.edu.cn/sofie2019/">https://econ.fudan.edu.cn/sofie2019/</a>.<br>
-</li>
-<li>Scientific Committee, 12th ISBA BNP Conference(2019), Oxford, UK, <a href="https://www.stats.ox.ac.uk/bnp12/">https://www.stats.ox.ac.uk/bnp12/</a>.<br>
-</li>
-<li>Scientific Committee, 11th SoFiE Conference (2018), Lugano, Switzerland, <a href="http://www.sofie2018.usi.ch/">http://www.sofie2018.usi.ch/</a>.<br>
-</li>
-<li>Scientific Committee, 11th CFE Conference (2017), London, UK, <a href="http://www.cfenetwork.org/CFE2017/">http://www.cfenetwork.org/CFE2017/</a>.<br>
-</li>
-<li>Scientific Committee, 10th SoFiE Conference (2017), New York, USA, <a href="http://sofie.stern.nyu.edu/conferences">http://sofie.stern.nyu.edu/conferences</a>.<br>
-</li>
-<li>Local Committee, 7th Symposium on Econometric Theory and Applications (2014), Melbourne, Australia.<br>
-</li>
-<li>Scientific Committee, Econometrics Society Australasian Meeting 2014, Hobart, Tasmania. - Co-Chair, Monash Bayesian Conference (2008), State Library of Victoria, Melbourne, Australia.<br>
-</li>
-<li>Co-Chair, Towards Better Outcomes for Young People in State Care (2005), Monash University.<br>
-</li>
-<li>Local Committee, Econometrics Society Australasian Meeting 2004, Melbourne, Australia.<br>
-</li>
-<li>Co-Chair, Econometrics Conference at Monash (1995), Monash University.</li>
-</ul>
+<li>Forbes, C. S. and Gunn, L. D. (2001) <em>Confirmatory Factor Analysis for PANSS Data.</em> For Dr.&nbsp;P. Fitzgerald, Monash University and Dandenong Hospital.</li>
+</ol>
 
 
 </section>
